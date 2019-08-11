@@ -1,0 +1,23 @@
+body, div {
+  padding: 0px;
+  margin: 0px;
+}
+div {
+  width: 360px;
+  min-height: 200px;
+  margin: auto;
+  background: yellowgreen;
+  background: linear-gradient(to bottom, white, black);
+  p {
+    margin: auto;
+    line-height: 32px;
+    text-align: center;
+    font-weight: 700;
+    color: red;
+  }
+}
+img {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
